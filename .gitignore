@@ -1,0 +1,11 @@
+dashboard/node_modules
+**/build/
+**/sdkconfig.old
+**/.vscode
+**/**.DS_Store
+**/cert
+**/managed_components
+**/demo
+**/tmp
+
+IOT_workspace
